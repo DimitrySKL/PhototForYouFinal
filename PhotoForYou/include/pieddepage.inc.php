@@ -6,6 +6,11 @@
     </div>
    
          
+    </div>	
+	
+         <img src="images/footer.jpg" alt="photoPaysage">
+
+		 
     <div class="footer-bottom">
         <p>&copy; PhotoForYou 2018. by SKOLIMOWSKI DIMITRY</p>
      </div>
