@@ -1,6 +1,6 @@
 <?php session_start();
 
-    include 'include/mysql.inc.php';
+    include 'include/mysql.php';
 
     $connectSession=connectBdd();
 
