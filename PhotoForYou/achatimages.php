@@ -10,7 +10,7 @@
     <div id="container">
     
         <?php 
-        include_once 'include/entete.inc.php';
+        include_once 'include/entete.php';
         ?>
         
         <div id="body">
@@ -25,7 +25,7 @@
 
 
             <?php 
-                include_once 'include/cotedroit.inc.php'; 
+                include_once 'include/cotedroit.php'; 
                 decoSession(); //On Fermeture de la connexion
             ?>
            
@@ -33,7 +33,7 @@
         </div>
 
 
-        <?php include_once 'include/pieddepage.inc.php'; ?>
+        <?php include_once 'include/pieddepage.php'; ?>
         
     </div>
 </body>
