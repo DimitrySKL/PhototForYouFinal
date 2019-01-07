@@ -34,7 +34,9 @@
 
 
         <?php include_once 'include/pieddepage.php'; ?>
-        
+        <?php 
+            include_once 'include/mysql.php';
+        ?>
     </div>
 </body>
 </html>
