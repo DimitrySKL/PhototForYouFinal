@@ -281,6 +281,28 @@ li ol, li ul {
 	width: 535px;
 }
 
+.btn {
+	border : 1px solid #FF4000;
+	background : none;
+	padding : 10px 20px;
+	font-size : 20px;
+	font-family : "montserrat";
+	cursor : pointer;
+	margin : 10px;
+	color : #FF4000;
+	text-decoration : none;
+	transition : 0.8s;
+	position : relative;
+	overflow : hidden;
+}
+
+.btn:hover {
+	color : #fff;
+	background-color : #FF4000;
+}
+
+
+
 .sidebar {
 	width: 200px;
 	padding: 10px 0 0;
