@@ -9,7 +9,7 @@
 <body>
     <div id="container">
     
-        <?php   include_once 'include/entete.inc.php';?>
+        <?php   include_once 'include/entete.php';?>
         
         <div id="body">
         
@@ -69,7 +69,7 @@
         </div>
 
 
-        <?php include_once 'include/pieddepage.inc.php'; ?>
+        <?php include_once 'include/pieddepage.php'; ?>
 
     </div>
 </body>
