@@ -25,7 +25,7 @@
 
 
             <?php 
-                include_once 'include/cotedroit.inc.php'; 
+                include_once 'include/cotedroit.php'; 
                 decoSession(); //On Fermeture de la connexion
             ?>
            
