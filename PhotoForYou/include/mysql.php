@@ -24,7 +24,7 @@
     {
         if (empty($_SESSION['login'])==FALSE)//Si la variable Session est cre et pas vide
         {
-            echo '<p><a href="deconnexion.php">Déconnexion</a></p>';
+            echo '<p><a class="btn" href="deconnexion.php">Déconnexion</a></p>';
         }
     }
     
